@@ -1,0 +1,144 @@
+
+.footer-section {
+  background-color: #232f3e; /* Fixed background color */
+  color: #fff; /* White text color */
+  width: 100%;
+  padding: 0 20px;
+}
+.amazon-footer__container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.amazon-footer__section {
+  margin-right: 40px;
+}
+
+.amazon-footer__section h4 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.amazon-footer__section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.amazon-footer__section ul li {
+  margin-bottom: 5px;
+}
+
+.amazon-footer__divider {
+  border-top: 1px solid #666;
+  /* margin: 20px 0; */
+}
+
+.amazon-footer__bottom {
+  background-color: #232f3e; /* Fixed background color */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+}
+
+.amazon-footer__bottom-section a {
+  color: #ccc; /* Grey text color */
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.amazon-footer__bottom-section a:hover {
+  text-decoration: underline;
+}
+
+.amazon-footer {
+  background-color: #232f3e;
+  color: #ffffff;
+  padding: 40px 0;
+}
+
+.footer-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.footer-section {
+  background-color: #131A22;
+  width: 100%;
+  /* padding: 0 20px; */
+}
+
+.footer-section h4 {
+  color: #ccc; /* Grey subtitle color */
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.footer-section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.footer-section ul li {
+  margin-bottom: 8px;
+}
+
+.footer-section ul li a {
+  color: #b2b2b2;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-section ul li a:hover {
+  color: #ffffff;
+}
+
+
+
+.back-to-top-button{
+  /* height: 10%; */
+  /* background-color: #232f3e; */
+  width: 100%;
+  color:#ffffff;
+  padding: 1.2%;
+  margin: 0;
+  background-color: #354355;
+}
+
+      /* Card Styles */
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 10px;
+  width: 300px;
+  display: flex;
+}
+
+.card-image {
+  width: 100%;
+  height: auto;
+}
+
+.card-content {
+  padding: 10px;
+}
+
+.card-title {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.card-description {
+  margin-top: 8px;
+}
+
+
+
+/* footer */
+
+.footer{
+  width: 100%;
+  background-color: #232f3e;
+}
